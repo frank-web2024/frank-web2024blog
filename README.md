@@ -1,5 +1,5 @@
-# Frank博客 :link: https://frank-web2024.github.io 
-### :page_facing_up: [7](https://frank-web2024.github.io/tag.html) 
+# Frank博客 :link: https://frankblog.us.kg 
+### :page_facing_up: [7](https://frankblog.us.kg/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 280 
 ### :alarm_clock: 2024-09-17 17:51:12 
