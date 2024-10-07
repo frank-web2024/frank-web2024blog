@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Frank博客</title><link>https://frank-web2024.github.io/frank-web2024blog</link><description>Frank Blog</description><copyright>Frank博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179779105?v=4</url><title>avatar</title><link>https://frank-web2024.github.io/frank-web2024blog</link></image><lastBuildDate>Sun, 06 Oct 2024 01:36:04 +0000</lastBuildDate><managingEditor>Frank博客</managingEditor><ttl>60</ttl><webMaster>Frank博客</webMaster><item><title>何李重工笔记本：第一章、内存系</title><link>https://frank-web2024.github.io/frank-web2024blog/post/he-li-zhong-gong-bi-ji-ben-%EF%BC%9A-di-yi-zhang-%E3%80%81-nei-cun-xi.html</link><description># 第一章：内存系&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Frank博客</title><link>https://frank-web2024.github.io/frank-web2024blog</link><description>Frank Blog</description><copyright>Frank博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179779105?v=4</url><title>avatar</title><link>https://frank-web2024.github.io/frank-web2024blog</link></image><lastBuildDate>Mon, 07 Oct 2024 08:56:49 +0000</lastBuildDate><managingEditor>Frank博客</managingEditor><ttl>60</ttl><webMaster>Frank博客</webMaster><item><title>在hyzc生电服务器的美好时光</title><link>https://frank-web2024.github.io/frank-web2024blog/post/zai-hyzc-sheng-dian-fu-wu-qi-de-mei-hao-shi-guang.html</link><description>在hyzc这个生电服务器，我虽然没有帮到什么忙，但是我在前期就用很大的实力获得了一堆东西&#13;
+&#13;
+但是现在，因为某种“不可抗力因素”导致我玩不了了&#13;
+&#13;
+&gt;这个因素跟我没关系！我没有动过任何事，你们就把我踢啦！（小声）&#13;
+&#13;
+这段美好时光就这样过去了。</description><guid isPermaLink="true">https://frank-web2024.github.io/frank-web2024blog/post/zai-hyzc-sheng-dian-fu-wu-qi-de-mei-hao-shi-guang.html</guid><pubDate>Mon, 07 Oct 2024 08:56:20 +0000</pubDate></item><item><title>何李重工笔记本：第一章、内存系</title><link>https://frank-web2024.github.io/frank-web2024blog/post/he-li-zhong-gong-bi-ji-ben-%EF%BC%9A-di-yi-zhang-%E3%80%81-nei-cun-xi.html</link><description># 第一章：内存系&#13;
 ## 1、内存密码：&#13;
 ### 1.1、内存密码的概念：&#13;
 &#13;
